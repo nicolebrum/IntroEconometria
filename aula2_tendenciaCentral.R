@@ -92,6 +92,7 @@ z <-c(2, 1, 2, 3, 1, 2, 3, 4, 1, 5, 5, 3, 2, 3)
 moda1 <- getmode(z)
 print(moda1)
 
+
 # QUARTIS
 conjuntoQuartis1 <- c(0:100)
 length(conjuntoQuartis1)
